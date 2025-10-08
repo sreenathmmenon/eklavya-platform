@@ -1,97 +1,104 @@
-# 🎯 Eklavya AI - Learn AI from Virtual Legends
+# Eklavya - AI-Powered Education & Mentoring Platform
 
-> **Enterprise Learning & Mentorship Platform powered by Claude Sonnet 4.5**
-
-Built for the Accel + Anthropic AI Dev Day Hackathon (Oct 1-8, 2024)
+> **Learn AI • Compare Models • Virtual Mentorship**
 
 ---
 
-## 🌟 The Eklavya Story
+## 🌟 The Story Behind Eklavya
 
-In the ancient Indian epic Mahabharata, Eklavya learned archery by practicing in front of a statue of the legendary master Dronacharya. Without direct access to the guru, he became one of the greatest archers.
+In the ancient Indian epic Mahabharata, Eklavya learned archery by practicing in front of a statue of the legendary master Dronacharya. Without direct access to the guru, he became one of the greatest archers through dedication and self-learning.
 
-**Today, you can't access Jeff Dean, Andrej Karpathy, or Arpit Bhayani directly. But their virtual versions can be YOUR mentors.**
-
----
-
-## 🚀 What Is This?
-
-Eklavya AI is a **dual platform** that combines:
-
-### 1. 📚 **Interactive Learning** (like Duolingo for AI)
-- **12-week structured curriculum** from beginner to expert
-- **Live code editor** with Monaco (VS Code in browser)
-- **Gamification**: XP, streaks, levels, achievements
-- **Production-ready projects** with AI-assisted development
-- Learn: Prompt Engineering, RAG, Agents, Multi-Agent Systems, Code Generation
-
-### 2. 🧠 **Virtual Mentorship** (like Topmate with AI)
-- **1-on-1 sessions** with AI mentors trained on legendary engineers
-- **Jeff Dean** - Google Senior Fellow (Distributed Systems, ML at Scale)
-- **Andrej Karpathy** - Ex-Tesla AI Director (Deep Learning, Education)
-- **Arpit Bhayani** - System Design Expert (Backend, Redis, DB Internals)
-- **Download transcripts** - Every conversation saved as Markdown
-- **Personalized learning** - Adapts to your level and style
+**Today, you can't access tech legends directly. But their AI-powered virtual versions can be YOUR mentors — 24/7.**
 
 ---
 
-## 💎 Why This Wins
+## What Is This?
+
+Eklavya is an interactive AI learning platform with three core features:
+
+### 1. 📚 **Interactive Learning**
+Learn AI concepts through hands-on lessons with real-time feedback:
+- **Prompt Engineering Fundamentals**: Compare basic vs well-structured prompts side-by-side
+- **RAG (Retrieval Augmented Generation)**: Paste your own documents and see how context improves AI responses
+- **Claude API Integration**: Real-time token tracking, cost analysis, and production-ready examples
+
+### 2. ⚖️ **Model Comparison Arena**
+Compare up to 16 AI models in real-time with a single prompt:
+- **Live API calls** to Anthropic, OpenAI, Google, Meta, Mistral, DeepSeek, Perplexity, Grok, Sarvam, and Ollama
+- **Side-by-side responses** streaming in real-time
+- **Performance charts** showing response time, cost, and token usage
+- **Data-driven decisions** for choosing the right model for your use case
+
+### 3. 🧠 **Virtual Mentorship**
+Chat with AI personas of legendary tech leaders:
+- **Jeff Dean** (Google Senior Fellow) - Distributed Systems, ML at Scale
+- **Andrej Karpathy** (Ex-Tesla AI Director) - Deep Learning, Neural Networks
+- **Arpit Bhayani** (System Design Expert) - Backend, Scalability
+- **Linus Torvalds** (Creator of Linux & Git) - Open Source, Kernel Development
+- **Kent Beck** (Creator of XP & TDD) - Software Craftsmanship
+- **Paul Graham** (Y Combinator Co-founder) - Startups, Product
+- **Reshma Saujani** (Girls Who Code Founder) - Diversity in Tech
+- **Steve Ballmer** (Former Microsoft CEO) - Business & Tech Strategy
+- **Shigeru Miyamoto** (Creator of Mario & Zelda) - Game Design, UX
+
+---
+
+## Why This Matters
+
+### For Students & Developers
+- **Free access** to learn from virtual versions of tech legends
+- **Learn by comparing**: See how different prompts and models perform
+- **Hands-on practice**: Interactive lessons with real AI APIs
+- **Custom context**: Test RAG with your own documents
 
 ### For Enterprises
-- **98% cost reduction** vs traditional training ($50K bootcamp → $800/year)
-- **79x ROI in 4 weeks** - developers productive faster
-- **5x faster learning** with AI-assisted hands-on projects
-- **Scalable** - train unlimited engineers with consistent quality
-
-### For Developers
-- **Free access** to virtual versions of legendary mentors
-- **Learn by building** - 12+ production-ready projects
-- **24/7 availability** - no waiting for mentor scheduling
-- **Keep everything** - download all conversations for reference
+- **Evaluate AI models** in minutes, not weeks
+- **Data-driven decisions**: See actual API responses, costs, and performance
+- **Cost optimization**: Test prompts and models before production deployment
+- **Training platform**: Educate teams on prompt engineering, RAG, and AI APIs
 
 ### For the Ecosystem
-- **Democratizes access** to world-class mentorship
-- **Built on Claude** - showcases Anthropic's capabilities
-- **Open curriculum** - can be adapted for any domain
-- **Proven model** - combines Duolingo's engagement + Topmate's mentorship
+- **Democratizes AI education**: Anyone can learn and experiment
+- **Transparent comparisons**: Real API responses, not marketing claims
+- **Open access**: Test 16+ models without needing multiple API keys
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
-- **Next.js 14** (App Router, React Server Components, TypeScript)
-- **Framer Motion** - Advanced animations, gestures, 3D transforms
-- **Tailwind CSS** - Glassmorphism, gradients, responsive design
-- **Radix UI** - Accessible headless components
-- **Monaco Editor** - Full VS Code editing experience in browser
-- **Lucide React** - Beautiful icon system
+- **Next.js 14** - App Router, React Server Components, TypeScript
+- **Tailwind CSS** - Modern, responsive design with glassmorphism effects
+- **Framer Motion** - Smooth animations and transitions
+- **Monaco Editor** - VS Code-style code editor in browser
 
 ### Backend
-- **Claude Sonnet 4.5** (`claude-sonnet-4-5-20250929`) - Latest model
-- **Next.js API Routes** - Serverless functions
-- **Anthropic SDK** - Direct integration with Claude
+- **Claude Sonnet 4.5** - Latest Anthropic model powering mentors and lessons
+- **Next.js API Routes** - Serverless functions for AI integrations
+- **Multiple AI Providers** - Anthropic, OpenAI, Google, Groq, and more
 
-### Design
-- **Glassmorphism** - Backdrop blur with transparency
-- **Gradient Orbs** - Animated background effects
-- **3D Card Effects** - Perspective, rotateY, scale transforms
-- **Staggered Animations** - Sequential reveal with Framer Motion
-- **100 Floating Stars** - Ambient background animation
+### Features
+- **Real-time API calls** with live streaming responses
+- **Token & cost tracking** for production planning
+- **Custom RAG context** - paste any document
+- **Markdown rendering** with syntax highlighting
+- **Responsive design** - works on desktop, tablet, mobile
 
 ---
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
-- **Node.js 18+** (recommend v20)
+- **Node.js 18+**
 - **Anthropic API Key** - Get from [console.anthropic.com](https://console.anthropic.com)
+- (Optional) Additional API keys for model comparison feature
 
 ### Installation
 
 ```bash
 # 1. Clone the repository
-cd /Users/sreenath/Code/ANTHROPIC-HACKATHON/eklavya-platform
+git clone https://github.com/sreenathmmenon/eklavya-platform.git
+cd eklavya-platform
 
 # 2. Install dependencies
 npm install
@@ -99,8 +106,10 @@ npm install
 # 3. Set up environment variables
 cp .env.example .env.local
 
-# 4. Add your Anthropic API key to .env.local
-ANTHROPIC_API_KEY=sk-ant-api03-...
+# 4. Add your API keys to .env.local
+ANTHROPIC_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_here (optional)
+GEMINI_API_KEY=your_key_here (optional)
 
 # 5. Run development server
 npm run dev
@@ -114,194 +123,113 @@ open http://localhost:3000
 ```
 eklavya-platform/
 ├── app/
-│   ├── page.tsx              # Homepage with hero, stats, Eklavya story
+│   ├── page.tsx              # Homepage
 │   ├── learn/
-│   │   └── page.tsx          # Learning dashboard, curriculum, code editor
+│   │   └── page.tsx          # Learning dashboard with 3 interactive lessons
 │   ├── mentors/
-│   │   └── page.tsx          # Mentor selection, chat interface
+│   │   └── page.tsx          # Virtual mentor chat interface
+│   ├── compare/
+│   │   └── page.tsx          # Model comparison arena
 │   └── api/
-│       ├── chat/
-│       │   └── route.ts      # Claude chat API with mentor personas
-│       └── analyze-github/
-│           └── route.ts      # GitHub skill assessment
-├── package.json              # Dependencies
-├── .env.example              # Environment template
-└── README.md                 # This file
+│       ├── chat/route.ts     # Claude chat with mentor personas
+│       └── compare/route.ts  # Multi-model comparison API
+├── components/
+│   └── MarkdownRenderer.tsx  # Syntax highlighting for code blocks
+└── README.md
 ```
 
 ---
 
-## 🎨 Features Showcase
+## Key Features
 
-### 1. **Stunning Homepage**
-- Animated background with 100 floating stars
-- 3 gradient orbs with pulsing animations
-- Glassmorphism floating header with rotating logo
-- Hero section with 8xl animated gradient text
-- 4 stats cards with 3D rotation on hover
-- 3 premium mentor cards with glow effects
-- Eklavya story section with brand messaging
+### 1. **Learning Platform**
+- **Prompt Engineering**: See how structured prompts improve responses
+- **RAG Demo**: Paste your own context and ask questions about it
+- **API Integration**: Real-time token counting and cost tracking
+- **Example content**: Anthropic's AI candidate guidance pre-loaded
 
-### 2. **Interactive Learning Dashboard**
-- **Gamified progress**: Level, XP, streak tracking
-- **Visual curriculum**: 12 weeks, 48 lessons color-coded
-- **Live code editor**: Monaco with Python syntax highlighting
-- **Instant feedback**: Run & test code, get AI hints
-- **XP rewards**: Earn points for completing lessons
-- **Success animations**: Celebrate lesson completion
+### 2. **Model Comparison**
+- **16 models** from 10 providers compared side-by-side
+- **Live charts** showing latency, cost, and token usage
+- **Real API responses** (not simulations)
+- **Select 2-16 models** to compare simultaneously
 
-### 3. **Virtual Mentor Platform**
-- **3 legendary mentors** with unique personas
-- **Real-time chat** powered by Claude Sonnet 4.5
-- **Conversation history** maintained throughout session
-- **Download transcripts** as Markdown files
-- **Mentor expertise tags** and achievements
-- **Free access** - no payment required
-
-### 4. **Claude API Integration**
-- **Mentor personas**: Jeff Dean, Karpathy, Arpit system prompts
-- **Context-aware**: Maintains conversation history
-- **Streaming ready**: Can add SSE for real-time responses
-- **Error handling**: Graceful fallbacks
-- **Usage tracking**: Token monitoring
+### 3. **Virtual Mentors**
+- **9 legendary personalities** with unique teaching styles
+- **Context-aware conversations** with history tracking
+- **Markdown formatting** for code examples and explanations
+- **Rotating display** on homepage (3 mentors shown at a time)
 
 ---
 
-## 🎯 Demo Flow
+## Pricing
 
-### For Judges/CTOs Watching Demo:
+**Free for users** - You only pay for your own AI provider API usage:
+- Anthropic Claude: ~$3-15 per 1M tokens
+- OpenAI GPT-4: ~$5-15 per 1M tokens
+- Google Gemini: ~$0.35-1 per 1M tokens
 
-1. **Homepage** (15 seconds)
-   - See the Eklavya story
-   - 98% cost reduction, 79x ROI stats
-   - 3 legendary mentors preview
-
-2. **Learning Dashboard** (45 seconds)
-   - View 12-week curriculum
-   - Select "RAG Architecture Basics" lesson
-   - Write code in Monaco editor
-   - Run & test, earn XP
-   - See gamification (streak, level up)
-
-3. **Virtual Mentorship** (90 seconds)
-   - Meet Jeff Dean, Karpathy, Arpit
-   - Start session with Jeff Dean
-   - Ask: *"How would you design a distributed training system for GPT-4 scale models?"*
-   - See Claude respond as Jeff Dean
-   - Ask follow-up: *"What about handling stragglers in training?"*
-   - Download conversation transcript
-
-4. **Impact Summary** (30 seconds)
-   - For enterprises: 98% cost savings, 79x ROI
-   - For developers: Free access to legends 24/7
-   - For ecosystem: Democratized learning
-
-**Total: 3 minutes**
+The platform itself has no subscription fees. Bring your own API keys and experiment freely.
 
 ---
 
-## 📊 Business Model
+## Use Cases
 
-### Phase 1: Free Tier (Launch)
-- 5 mentor sessions/month
-- Access to Week 1-4 curriculum
-- Community support
-- **Goal**: 10K users, prove engagement
+### For Learning
+- **Students**: Learn prompt engineering, RAG, and AI APIs through hands-on practice
+- **Developers**: Test different approaches before implementing in production
+- **Educators**: Demonstrate AI concepts with live, interactive examples
 
-### Phase 2: Enterprise ($800/year/dev)
-- Unlimited mentor sessions
-- Full 12-week curriculum
-- Custom mentors (train on company docs)
-- Analytics dashboard for managers
-- **Goal**: 100 companies, $8M ARR
+### For Business
+- **Model Selection**: Compare 16 models to find the best fit for your use case
+- **Cost Optimization**: Test prompts to reduce token usage and API costs
+- **Team Training**: Educate engineers on AI best practices
+- **POC Development**: Prototype with different models quickly
 
-### Phase 3: Platform Play
-- Marketplace for custom mentors
-- User-generated curriculum
-- API for embeddings in other tools
-- **Goal**: 1M users, $50M ARR
+### For Research
+- **Benchmark Models**: Compare performance across providers
+- **Prompt Testing**: A/B test different prompt structures
+- **RAG Evaluation**: Test context injection strategies
 
 ---
 
-## 🏆 Judging Criteria Alignment
+## Roadmap
 
-### ✅ Innovation
-- **First platform** combining Duolingo-style learning + Topmate-style mentorship
-- **Virtual mentor personas** trained on legendary engineers
-- **Download transcripts** - unique knowledge retention feature
-
-### ✅ Technical Excellence
-- **Claude Sonnet 4.5** as the core engine
-- **Production-quality UI** with Framer Motion, glassmorphism
-- **Scalable architecture** with Next.js 14 server components
-- **Real-time code editor** with Monaco
-
-### ✅ Business Impact
-- **98% cost reduction** - clear ROI for enterprises
-- **5x faster learning** - measurable productivity gain
-- **Unlimited scale** - no human mentor bottleneck
-
-### ✅ Developer Experience
-- **Free access** - removes financial barrier
-- **24/7 availability** - learn at your pace
-- **Keep transcripts** - build personal knowledge base
-
-### ✅ Ecosystem Value
-- **Democratizes mentorship** - access to legends for everyone
-- **Showcases Claude** - best use of Anthropic's platform
-- **Open for extension** - can add more mentors, domains
+- [x] Interactive learning lessons (Prompt Engineering, RAG, Claude API)
+- [x] 9 virtual mentor personalities
+- [x] 16-model comparison arena
+- [x] Real-time token & cost tracking
+- [x] Custom RAG context input
+- [ ] Multi-language support
+- [ ] Advanced prompt patterns lessons
+- [ ] Agent orchestration examples
+- [ ] Code execution sandbox
 
 ---
 
-## 🎬 Next Steps
+## Contributing
 
-### Before Submission (Oct 8):
-- [ ] Test all features locally
-- [ ] Deploy to Vercel production
-- [ ] Record 3-minute demo video
-- [ ] Create pitch deck (10 slides)
-- [ ] Submit to Devpost
-
-### Post-Hackathon:
-- [ ] Add 3 more mentors (Yann LeCun, Demis Hassabis, Sam Altman)
-- [ ] Build Weeks 5-12 curriculum
-- [ ] Add code execution sandbox
-- [ ] Integrate with GitHub for skill assessment
-- [ ] Launch beta with 100 users
+This is currently a solo project, but contributions are welcome! Feel free to:
+- Report bugs via GitHub Issues
+- Suggest new features or mentor personalities
+- Submit pull requests for improvements
 
 ---
 
-## 👥 Team
+## License
 
-**Sreenath** - Solo builder
-- Full-stack developer with expertise in AI/ML integration
-- Previous experience: 10+ years in AI/ML, system design, product
+MIT License - See LICENSE file for details
 
 ---
 
-## 📝 License
+## Acknowledgments
 
-MIT License - see LICENSE file
+Inspired by the timeless Eklavya story from the Mahabharata, this platform aims to democratize access to world-class AI education and mentorship.
 
----
-
-## 🙏 Acknowledgments
-
-- **Anthropic** - for Claude Sonnet 4.5 and the hackathon opportunity
-- **Jeff Dean, Andrej Karpathy, Arpit Bhayani** - for being legends worth emulating
-- **The Mahabharata** - for the timeless Eklavya story
+Special thanks to the legendary tech leaders whose teaching styles inspired the virtual mentor personas.
 
 ---
 
-## 📞 Contact
+**Learn AI • Compare Models • Virtual Mentorship**
 
-- **GitHub**: [Your GitHub]
-- **Email**: [Your Email]
-- **Demo**: [Vercel URL once deployed]
-- **Video**: [YouTube link once recorded]
-
----
-
-**Built with ❤️ and Claude Sonnet 4.5 for the Accel + Anthropic AI Dev Day Hackathon**
-
-*"Learn from the best. Build the future."*
+*Built with Next.js 14 and Claude Sonnet 4.5*
