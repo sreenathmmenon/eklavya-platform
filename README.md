@@ -43,6 +43,30 @@ Chat with AI personas of legendary tech leaders:
 
 ---
 
+## The Cost of Traditional AI Education
+
+### Popular AI/ML Courses in India (2024-2025)
+
+Traditional AI courses are expensive and time-consuming:
+
+- **upGrad PG Programs**: ₹1.5L - ₹5L+ (12-18 months)
+- **Scaler AI/ML Course**: ₹2L - ₹3.5L+ (9-12 months)
+- **Great Learning Programs**: ₹1L - ₹4L+ (6-12 months)
+- **Bootcamps**: ₹50K - ₹2L (3-6 months)
+
+**Average cost**: ₹2-3 Lakhs per learner for comprehensive AI training.
+
+### Eklavya Platform Approach
+
+- **Platform Cost**: ₹0 (Free, open-source)
+- **API Costs**: ₹100-500/month (pay only for your actual usage)
+- **Learning Time**: Self-paced, 24/7 access
+- **Mentorship**: Free virtual access to 9 legendary tech leaders
+
+**Result**: **98% cost reduction** compared to traditional courses.
+
+---
+
 ## Why This Matters
 
 ### For Students & Developers
