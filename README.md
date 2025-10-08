@@ -88,6 +88,42 @@ Traditional AI courses are expensive and time-consuming:
 
 ---
 
+## The AI Disruption in Indian IT Sector
+
+### Recent Developments (2024-2025)
+
+The Indian IT industry is facing significant workforce transformation driven by AI:
+
+#### Layoffs and Workforce Reduction
+- **TCS**: Laying off 2% of workforce (~12,000+ employees) - largest layoffs in company history ([Business Standard](https://www.business-standard.com/companies/news/tcs-layoffs-signal-ai-driven-transformation-in-283-bn-outsourcing-sector-125080800567_1.html))
+- **Infosys, Wipro, HCL**: Continuing staff reductions despite rising revenues ([Business Standard](https://www.business-standard.com/industry/news/tcs-infosys-lay-off-indian-it-sector-job-cuts-automation-ai-reskilling-125072800505_1.html))
+- **Industry Impact**: Up to 500,000 IT jobs at risk in next 3 years ([Republic World](https://www.republicworld.com/business/tcs-layoffs-signal-ai-driven-job-shakeup-up-to-500000-indian-it-jobs-at-risk-experts-warn))
+
+#### Worker Anxiety
+- **68% of professionals** expect their roles to be partially or fully automated within 5 years
+- **4 in 10 workers** fear their current skills will soon be obsolete
+- Hiring now focuses on niche talent: AI, cloud, cybersecurity ([Policy Circle](https://www.policycircle.org/industry/tcs-layoffs-ai-jobs-impact/))
+
+#### Industry Response
+- **TCS**: Trained 550,000 employees in basic AI skills, 100,000 in advanced skills
+- **Infosys**: Developing 100+ generative AI agents to automate client workflows
+- **Clear Message**: "Reskill or risk redundancy" ([Medium](https://medium.com/data-science-in-your-pocket/tcs-layoffs-is-ai-slowly-eating-up-india-69962ee2bec7))
+
+### How Eklavya Helps
+
+**The Problem**: Traditional upskilling is expensive (₹2-5L) and slow (12-18 months). Workers need immediate, affordable AI education.
+
+**Our Solution**:
+- **Free, instant access** to AI learning (no ₹2L course fees)
+- **Practical, hands-on** lessons (not just theory)
+- **24/7 availability** (learn while working, no need to quit job)
+- **Real AI tools** (Claude API, RAG, prompt engineering)
+- **Virtual mentors** (guidance without expensive coaching)
+
+**Impact**: Enables developers to upskill rapidly and affordably, reducing risk of job displacement while staying competitive in the AI-driven market.
+
+---
+
 ## Tech Stack
 
 ### Frontend
