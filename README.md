@@ -65,6 +65,16 @@ Traditional AI courses are expensive and time-consuming:
 
 **Result**: **98% cost reduction** compared to traditional courses.
 
+### Mentoring Platform Comparison
+
+Professional mentorship is expensive and limited:
+
+- **Topmate.io**: ₹2K-6K per hour + 7-10% platform fees ([Topmate Pricing](https://topmate.io/pricing))
+- **MentorCruise**: $50-700/month + 16-20% platform markup ([MentorCruise](https://mentorcruise.com/))
+- **ADPList**: Free but limited availability, scheduling challenges ([ADPList](https://adplist.org/))
+
+**Eklavya's Approach**: Free 24/7 access to AI personas of 9 legendary mentors - no scheduling, no fees, unlimited sessions.
+
 ---
 
 ## Why This Matters
